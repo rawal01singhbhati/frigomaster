@@ -1,7 +1,7 @@
 {
   "name": "pyro",
   "description": "Download videos from various websites using this telegram bot",
-  "repository": "https://github.com/nkhash/textuploader",
+  "repository": "https://github.com/rawal01singhbhati/frigomaster",
   "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -27,7 +27,7 @@
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "Admin/Owner/Friends ID Seperate by ','  Ex: 44578878,8878899",
+      "description": "Admin/Owner/Friends ID Seperate by ','  Ex: ,",
       "value": ""
     },
     "GROUPS": {
